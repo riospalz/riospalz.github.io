@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riospalz.github.io/sitemap.html.gz
+Sitemap: https://riospalz.github.io/app/sitemap.html.gz
+Sitemap: https://riospalz.github.io/assets/sitemap.html.gz
+Sitemap: https://riospalz.github.io/css/sitemap.html.gz
+Sitemap: https://riospalz.github.io/data/sitemap.html.gz
+Sitemap: https://riospalz.github.io/includes/sitemap.html.gz
+Sitemap: https://riospalz.github.io/item/sitemap.html.gz
+Sitemap: https://riospalz.github.io/src/sitemap.html.gz
